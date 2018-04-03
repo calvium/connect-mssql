@@ -3,7 +3,7 @@
 		"name": "Patrik Simek",
 		"url": "https://patriksimek.cz"
 	},
-	"name": "connect-mssql",
+	"name": "calvium-connect-mssql",
 	"description": "SQL Server session store for Connect/Express",
 	"keywords": [
 		"database",
